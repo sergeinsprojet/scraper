@@ -6,5 +6,11 @@ import lombok.Data;
 public class ResponseDTO {
 
     String title;
+    String description;
+    String location;
+    String type;
+    String area;
+    String motivation;
+    String size;
     String url;
 }
